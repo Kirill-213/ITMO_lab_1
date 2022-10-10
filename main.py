@@ -1,4 +1,3 @@
-'''
 import csv
 # задаю переменные
 count = count_30 = count_1 = 0
@@ -34,5 +33,5 @@ f.close()
 print('\nОтветы на вопросы')
 print('2) ', count)
 print('3) ', count_30)
-'''
+
 
